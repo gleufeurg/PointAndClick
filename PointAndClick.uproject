@@ -3,6 +3,15 @@
 	"EngineAssociation": "5.2",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Eva_Inventory",
+			"Enabled": true
+		}
+	],
+	"AdditionalPluginDirectories": [
+		"../../Eva_Inventory"
+	],
 	"TargetPlatforms": [
 		"Android",
 		"Windows"
