@@ -6,7 +6,7 @@
 	"Plugins": [
 		{
 			"Name": "Eva_Inventory",
-			"Enabled": true
+			"Enabled": false
 		}
 	],
 	"AdditionalPluginDirectories": [
